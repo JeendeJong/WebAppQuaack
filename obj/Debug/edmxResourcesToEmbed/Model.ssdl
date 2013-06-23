@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuaackModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="QuaackModelStoreContainer">
+    <EntitySet Name="follower" EntityType="QuaackModel.Store.follower" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="message" EntityType="QuaackModel.Store.message" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="profile" EntityType="QuaackModel.Store.profile" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="QuaackModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_follower_profile_follower" Association="QuaackModel.Store.FK_follower_profile_follower">
+      <End Role="profile" EntitySet="profile" />
+      <End Role="follower" EntitySet="follower" />
+    </AssociationSet>
+    <AssociationSet Name="FK_follower_profile_subject" Association="QuaackModel.Store.FK_follower_profile_subject">
+      <End Role="profile" EntitySet="profile" />
+      <End Role="follower" EntitySet="follower" />
+    </AssociationSet>
+    <AssociationSet Name="FK_message_message" Association="QuaackModel.Store.FK_message_message">
+      <End Role="message" EntitySet="message" />
+      <End Role="message1" EntitySet="message" />
+    </AssociationSet>
+    <AssociationSet Name="FK_message_profile" Association="QuaackModel.Store.FK_message_profile">
+      <End Role="profile" EntitySet="profile" />
+      <End Role="message" EntitySet="message" />
+    </AssociationSet>
+    <AssociationSet Name="FK_message_profile_removedby" Association="QuaackModel.Store.FK_message_profile_removedby">
+      <End Role="profile" EntitySet="profile" />
+      <End Role="message" EntitySet="message" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="follower">
+    <Key>
+      <PropertyRef Name="followid" />
+    </Key>
+    <Property Name="followid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="subject" Type="int" Nullable="false" />
+    <Property Name="follower" Type="int" Nullable="false" />
+    <Property Name="blocked" Type="bit" Nullable="false" />
+    <Property Name="requestpending" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="message">
+    <Key>
+      <PropertyRef Name="messid" />
+    </Key>
+    <Property Name="messid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="messdatetime" Type="datetime" Nullable="false" />
+    <Property Name="sender" Type="int" Nullable="false" />
+    <Property Name="parentmessid" Type="int" />
+    <Property Name="message" Type="varchar" Nullable="false" MaxLength="160" />
+    <Property Name="removed" Type="bit" Nullable="false" />
+    <Property Name="removedby" Type="int" />
+  </EntityType>
+  <EntityType Name="profile">
+    <Key>
+      <PropertyRef Name="profileid" />
+    </Key>
+    <Property Name="profileid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="password" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="profile" Type="varchar" MaxLength="2048" />
+    <Property Name="email" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="avatarlocation" Type="varchar" MaxLength="50" />
+    <Property Name="mobilenumber" Type="char" MaxLength="10" />
+    <Property Name="verificationpending" Type="bit" Nullable="false" />
+    <Property Name="verficationpendingdatetime" Type="datetime" />
+    <Property Name="tempblocked" Type="bit" Nullable="false" />
+    <Property Name="tempblockeddatetime" Type="datetime" />
+    <Property Name="permblocked" Type="bit" Nullable="false" />
+    <Property Name="permblockeddatetime" Type="datetime" />
+    <Property Name="removed" Type="bit" Nullable="false" />
+    <Property Name="removeddatetime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_follower_profile_follower">
+    <End Role="profile" Type="QuaackModel.Store.profile" Multiplicity="1" />
+    <End Role="follower" Type="QuaackModel.Store.follower" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="profile">
+        <PropertyRef Name="profileid" />
+      </Principal>
+      <Dependent Role="follower">
+        <PropertyRef Name="follower" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_follower_profile_subject">
+    <End Role="profile" Type="QuaackModel.Store.profile" Multiplicity="1" />
+    <End Role="follower" Type="QuaackModel.Store.follower" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="profile">
+        <PropertyRef Name="profileid" />
+      </Principal>
+      <Dependent Role="follower">
+        <PropertyRef Name="subject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_message_message">
+    <End Role="message" Type="QuaackModel.Store.message" Multiplicity="0..1" />
+    <End Role="message1" Type="QuaackModel.Store.message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="message">
+        <PropertyRef Name="messid" />
+      </Principal>
+      <Dependent Role="message1">
+        <PropertyRef Name="parentmessid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_message_profile">
+    <End Role="profile" Type="QuaackModel.Store.profile" Multiplicity="1" />
+    <End Role="message" Type="QuaackModel.Store.message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="profile">
+        <PropertyRef Name="profileid" />
+      </Principal>
+      <Dependent Role="message">
+        <PropertyRef Name="sender" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_message_profile_removedby">
+    <End Role="profile" Type="QuaackModel.Store.profile" Multiplicity="0..1" />
+    <End Role="message" Type="QuaackModel.Store.message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="profile">
+        <PropertyRef Name="profileid" />
+      </Principal>
+      <Dependent Role="message">
+        <PropertyRef Name="removedby" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" ReturnType="int" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>

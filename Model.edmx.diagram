@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="610526697dd6419585f703bda8ad0f97" Name="Diagram1">
+        <EntityTypeShape EntityType="QuaackModel.follower" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuaackModel.message" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuaackModel.profile" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuaackModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="QuaackModel.FK_follower_profile_follower" ManuallyRouted="false" />
+        <AssociationConnector Association="QuaackModel.FK_follower_profile_subject" ManuallyRouted="false" />
+        <AssociationConnector Association="QuaackModel.FK_message_message" ManuallyRouted="false" />
+        <AssociationConnector Association="QuaackModel.FK_message_profile" ManuallyRouted="false" />
+        <AssociationConnector Association="QuaackModel.FK_message_profile_removedby" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

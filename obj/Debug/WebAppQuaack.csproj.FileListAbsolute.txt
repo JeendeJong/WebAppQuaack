@@ -1,0 +1,156 @@
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Antlr3.Runtime.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\EntityFramework.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\System.Web.Optimization.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\System.Web.Providers.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebGrease.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\EntityFramework.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.xml
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+C:\localdata\0A\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Antlr3.Runtime.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\EntityFramework.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\System.Web.Optimization.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\System.Web.Providers.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\WebGrease.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\EntityFramework.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+C:\Users\Martijn\Downloads\WebAppQuaackV4\WebAppQuaackV4\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\WebAppQuaack.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\WebAppQuaack.pdb
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Antlr3.Runtime.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.AspNet.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.Core.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OAuth.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OpenId.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\EntityFramework.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\System.Web.Optimization.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\System.Web.Providers.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\WebGrease.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\EntityFramework.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.Core.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OAuth.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OpenId.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\bin\DotNetOpenAuth.AspNet.xml
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+C:\Visual Studio 2012\Projects\WebAppQuaackV5\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Antlr3.Runtime.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\EntityFramework.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\System.Web.Optimization.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\System.Web.Providers.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebGrease.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\EntityFramework.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+C:\Users\Roy\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Antlr3.Runtime.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\EntityFramework.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\System.Web.Optimization.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\System.Web.Providers.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\WebGrease.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\EntityFramework.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.Core.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+C:\Users\Michael\Documents\GitHub\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+Z:\Documenten\NOH-i\NOH-i Project Quaack\WebAppQuaack\WebAppQuaack\bin\Microsoft.Web.Infrastructure.xml
